@@ -8,9 +8,12 @@ This project revolves around exploratory data analysis (EDA) of telecom customer
 # Table of Contents
 1. Motivation
 2. Data
-3. Exploratory Data Analysis
-4. Usage
-5.Contributing
+3. Problem Statement
+4. Exploratory Data Analysis
+5. Conclusion
+6. Recommendation
+7. Usage
+8. Contributing
 
 # Motivation
 Understanding customer churn is crucial for telecom companies to develop effective retention strategies and maintain profitability. Exploratory data analysis plays a fundamental role in this process by providing insights into the underlying patterns and factors influencing customer churn.
