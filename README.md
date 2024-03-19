@@ -32,28 +32,28 @@ The exploratory data analysis phase involves:
 • Analyzing the impact of different features on customer churn using bar plots, heatmaps, and pivot tables.
 
 # Conclusion
-1.Higher churn rates are observed among customers with a higher number of customer service calls, indicating dissatisfaction.
-2.Customers with international plans tend to churn at a higher rate compared to those without, suggesting the need for improved international service offerings.
-3.Churn rates vary across different states, indicating potential regional factors influencing customer retention.
-4.Customers with higher total day minutes, calls, and charges exhibit higher churn rates, suggesting dissatisfaction with daytime service usage.
-5.The presence of a voice mail plan does not significantly impact churn rates, suggesting it may not be a significant factor in customer retention.
-6.Churn rates tend to be higher among customers with longer account lengths, indicating that loyalty doesn't always guarantee retention
-7.Evening and night usage patterns do not show a strong correlation with churn, indicating that service quality during these times may not significantly impact customer retention.
+1. Higher churn rates are observed among customers with a higher number of customer service calls, indicating dissatisfaction.
+2. Customers with international plans tend to churn at a higher rate compared to those without, suggesting the need for improved international service offerings.
+3. Churn rates vary across different states, indicating potential regional factors influencing customer retention.
+4. Customers with higher total day minutes, calls, and charges exhibit higher churn rates, suggesting dissatisfaction with daytime service usage.
+5. The presence of a voice mail plan does not significantly impact churn rates, suggesting it may not be a significant factor in customer retention.
+6. Churn rates tend to be higher among customers with longer account lengths, indicating that loyalty doesn't always guarantee retention
+7. Evening and night usage patterns do not show a strong correlation with churn, indicating that service quality during these times may not significantly impact customer retention.
 
 # Recommendation
-1.Implement proactive customer service strategies to address concerns raised by high call volume customers.
-2.Enhance international plan features and offerings to improve customer retention.
-3.Tailor marketing and service strategies to address regional differences in churn rates.
-4.Consider optimizing voice mail plan offerings to better align with customer needs.
-5.Take feedback from customers to enhance service quality and address pain points effectively.
-6.Implement improved marketing strategies to attract new customers, focusing on clear communication and value propositions
-7.Provide tailored offers to long-term customers, fostering loyalty and satisfaction.
+1. Implement proactive customer service strategies to address concerns raised by high call volume customers.
+2. Enhance international plan features and offerings to improve customer retention.
+3. Tailor marketing and service strategies to address regional differences in churn rates.
+4. Consider optimizing voice mail plan offerings to better align with customer needs.
+5. Take feedback from customers to enhance service quality and address pain points effectively.
+6. Implement improved marketing strategies to attract new customers, focusing on clear communication and value propositions
+7. Provide tailored offers to long-term customers, fostering loyalty and satisfaction.
 
 # Usage
 To replicate the exploratory data analysis performed in this project:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in the requirements.txt file.
-3. Explore the Jupyter notebook in the notebooks directory containing the EDA process.
+3. Explore the google colab notebook in the notebooks directory containing the EDA process.
 4. Experiment with different visualizations and analyses to gain further insights into the data.
    
 # Contributing
